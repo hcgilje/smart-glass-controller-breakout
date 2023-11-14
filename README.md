@@ -1,6 +1,7 @@
 # smart-glass-controller-breakout
 
-![IMG_8800](https://github.com/OBauck/smart-glass-controller-breakout/assets/6451515/68a115bb-f1dc-4a65-aaa8-7cee6d14252b)
+![DT-smartglass-breakout](https://github.com/hcgilje/smart-glass-controller-breakout/assets/1252621/3613b907-d76e-4437-acb4-edca371d9a16)
+
 
 Breakout for controlling smart glass or electroluminescent wire. 
 
